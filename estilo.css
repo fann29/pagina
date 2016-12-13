@@ -1,0 +1,60 @@
+header{
+	
+	height: 15%;
+	/*border:1px solid black;*/
+}
+
+#nav{
+	height: 15%;
+	/*border: 1px solid black;*/
+}
+
+#nav a{
+	font-size: 1em;
+	font-family: tahoma;
+	text-decoration: none;
+}
+
+h1{
+font-size: 300%;
+font-family: tahoma;
+}
+
+#contenido{
+	height: 80%;
+	width: 80%;
+	/*border: 1px solid black;*/
+}
+
+#art{
+	height: 78%;
+	left: 80%;
+	width: 20%;
+	/*border:1px solid black;*/
+	top:16%;
+	overflow: hidden;
+  position: absolute;
+  font-family:courier;
+}
+
+table{
+	width: 75%;
+	/*]border: 1px solid black;*/
+	position: absolute;
+	right: 25%;
+}
+
+td{
+	width: 25%;
+	overflow: hidden;
+	padding: 1px;
+	margin: 20px;
+	padding: 15px;
+	/*border: 1px solid black;*/
+}
+
+#titulo{
+	font-family: courier;
+	text-align: center;
+	text-anchor: 2;
+}
