@@ -26,7 +26,7 @@ font-family: tahoma;
 #contenido{
 	height: 80%;
 	width: 80%;
-	color: brown;
+	color: blue;
 	/*border: 1px solid black;*/
 }
 
@@ -62,3 +62,9 @@ td{
 	text-align: center;
 	text-anchor: 2;
 }
+
+#pie{
+margin:10px;
+		text-align:center;
+		clear:both;
+		}
